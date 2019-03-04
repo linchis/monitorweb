@@ -1,4 +1,4 @@
-# monitor
+# monitorweb
 Monitorización de conexión a internet de una máquina y generación de estádisticas
 
 Este proyecto consta de tres archivos:
